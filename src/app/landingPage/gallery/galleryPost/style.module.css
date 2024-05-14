@@ -1,0 +1,16 @@
+.galleryPost {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0px;
+    gap: 15px;
+    align-items: center;
+}
+
+.galleryPost iframe {
+    width: 5000px;
+    height: 315px;
+}
+
+.galleryPost p {
+
+}
