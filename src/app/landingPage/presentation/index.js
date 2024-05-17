@@ -4,7 +4,7 @@ import style from './style.module.css'
 const Presentation = () => {
   return (
     <div className={style.presentation}>
-      <iframe width="860" height="615" src="https://www.youtube.com/embed/FaqfBOcr4l8?si=wJ28ZEeC8VHquZVv&autoplay=1&controls=0&loop=1&mute=1" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; mute; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+      <iframe width="830" height="500" src="https://www.youtube.com/embed/videoseries?si=Ta8zbrEuN2MtyDaS&amp;controls=0&showinfo=0&rel=0&autoplay=1&loop=1&mute=1&playlist=0&amp;list=PL8wmuaOnkJMC6IBXFVxRbDaSHhg4FkNuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen/>
     </div>
   )
 }

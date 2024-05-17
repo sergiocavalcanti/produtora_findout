@@ -3,23 +3,24 @@
     top: 0%;
     left: 0%;
     width: 100vw;
-    background-color: black;
+    background-color: white;
 }
 
 .menu ul {
     display: flex;
     flex-direction: row;
-    padding: 20px;
-    gap: 80px;
+    padding: 10px;
+    gap: 100px;
     justify-content: center;
 }
 
-.menu ul li a {
+.menu ul p a {
     text-decoration: none;
-    color: white;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
 }
 
-.menu ul li a:hover {
+.menu ul p a:hover {
     text-decoration: underline;
 }

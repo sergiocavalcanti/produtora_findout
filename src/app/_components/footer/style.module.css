@@ -1,5 +1,7 @@
 .footer {
+    margin-top: 70px;
     width: 100vw;
-    background-color: black;
+    height: 120px;
+    background-color: white;
     padding: 20px;
 }

@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className={style.footer}>
         <ul>
-            <li></li>
+            <p>Contatos: instagram/</p>
         </ul>
     </div>
   )

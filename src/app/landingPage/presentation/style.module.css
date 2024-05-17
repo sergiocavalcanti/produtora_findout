@@ -1,5 +1,13 @@
 .presentation {
     margin-top: 120px;
+    padding: 60px;
     display: flex;
     justify-content: center;
+}
+
+.presentation iframe {
+    margin: 6px;
+    padding: 6px;
+    border: 10px solid white;
+    border-radius: 6px;
 }
