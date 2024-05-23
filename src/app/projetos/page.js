@@ -1,5 +1,5 @@
 import React from "react"
-import Gallery from "../landingPage/gallery"
+import Gallery from "."
 // import style from './style.module.css'
 
 const Projetos = () => {

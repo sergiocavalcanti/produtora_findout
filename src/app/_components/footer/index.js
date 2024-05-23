@@ -5,10 +5,10 @@ import style from './style.module.css'
 const Footer = () => {
   return (
     <div className={style.footer}>
-        <ul>
             <p>Contatos</p>
-            <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" Link="https://www.instagram.com/produtorafindout/"/>
-        </ul>
+            <a href="https://www.instagram.com/produtorafindout/">
+            <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png"/>
+            </a>
     </div>
   )
 }
