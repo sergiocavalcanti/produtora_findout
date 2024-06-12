@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src/app/api
+# /src/app/api
 /.pnp
 .pnp.js
 .yarn/install-state.gz
