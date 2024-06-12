@@ -1,0 +1,13 @@
+.gallery {
+    margin: 20px 0px;
+    justify-content: center;
+    display: flex;
+    margin-top: 120px;
+    
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 860px;
+}
