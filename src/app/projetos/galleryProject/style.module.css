@@ -1,0 +1,19 @@
+.galleryPost {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0px;
+    gap: 15px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.galleryPost iframe {
+    width: 5000px;
+    height: 315px;
+}
+
+.galleryPost p {
+    color: black;
+}
