@@ -24,3 +24,19 @@
 .menu ul p a:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width:600px) {
+    .menu {
+    }
+    
+    .menu ul {
+        gap: 45px;
+    }
+    
+    .menu ul p a {
+        font-size: 1.4rem;
+    }
+    
+    .menu ul p a:hover {
+    }
+}

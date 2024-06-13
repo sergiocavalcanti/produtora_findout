@@ -11,3 +11,16 @@
     border: 10px solid white;
     border-radius: 6px;
 }
+
+@media screen and (max-width: 600px) {
+    .presentation {
+    }
+    
+    .presentation iframe {
+        height: 200px;
+        margin: 3px;
+        padding: 3px;
+        border: 6px solid white;
+        border-radius: 6px;
+    }
+}
